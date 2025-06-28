@@ -1,0 +1,9 @@
+fastapi==0.110.3
+uvicorn==0.29.0
+crewai==0.130.0
+crewai-tools==0.47.1
+langchain==0.1.52
+openai==1.30.5
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+pydantic==1.10.13
